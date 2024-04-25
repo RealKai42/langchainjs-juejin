@@ -1,0 +1,34 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "Hi, 我叫小明",
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "你好",
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "我叫什么？",
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "你叫小明。",
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  }
+]

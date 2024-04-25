@@ -1,0 +1,24 @@
+{
+  "name": "test-app-node",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "prepare-kong-faiss": "ts-node prepare-kong-faiss.ts",
+    "load-kong-faiss": "ts-node load-kong-faiss.ts",
+    "multiQueryRetriever": "ts-node multiQueryRetriever.ts",
+    "LLMChainExtractor": "ts-node LLMChainExtractor.ts",
+    "ScoreThresholdRetriever": "ts-node ScoreThresholdRetriever.ts",
+    "prepare-qiu": "ts-node ./rag/prepare-qiu.ts",
+    "rag-2": "ts-node ./rag/index.ts",
+    "rag-server": "ts-node ./rag/server.ts",
+    "rag-client": "ts-node ./rag/client.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "faiss-node": "^0.5.1",
+    "langchain": "^0.1.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}

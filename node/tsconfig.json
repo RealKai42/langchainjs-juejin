@@ -1,0 +1,10 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "strict": false,
+    "esModuleInterop": true,
+    "target": "ES6"
+  },
+  "exclude": ["node_modules"]
+}
