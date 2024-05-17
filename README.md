@@ -1,6 +1,6 @@
 ## 小册链接：
 
-[从前端到 AI：langchain.js 入门和实战](https://s.juejin.cn/ds/i2DqH9WB/)
+[从前端到 AI：langchain.js 入门和实战](https://s.juejin.cn/ds/i2qw5dKG/)
 
 ## 你会学到什么？
 
